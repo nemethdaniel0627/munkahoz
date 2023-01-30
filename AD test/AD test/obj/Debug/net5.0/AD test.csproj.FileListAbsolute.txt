@@ -1,0 +1,24 @@
+A:\munka\AD test\AD test\bin\Debug\net5.0\appsettings.Development.json
+A:\munka\AD test\AD test\bin\Debug\net5.0\appsettings.json
+A:\munka\AD test\AD test\bin\Debug\net5.0\AD test.exe
+A:\munka\AD test\AD test\bin\Debug\net5.0\AD test.deps.json
+A:\munka\AD test\AD test\bin\Debug\net5.0\AD test.runtimeconfig.json
+A:\munka\AD test\AD test\bin\Debug\net5.0\AD test.runtimeconfig.dev.json
+A:\munka\AD test\AD test\bin\Debug\net5.0\AD test.dll
+A:\munka\AD test\AD test\bin\Debug\net5.0\ref\AD test.dll
+A:\munka\AD test\AD test\bin\Debug\net5.0\AD test.pdb
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.csproj.AssemblyReference.cache
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.GeneratedMSBuildEditorConfig.editorconfig
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.AssemblyInfoInputs.cache
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.AssemblyInfo.cs
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.csproj.CoreCompileInputs.cache
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.MvcApplicationPartsAssemblyInfo.cache
+A:\munka\AD test\AD test\obj\Debug\net5.0\staticwebassets\AD test.StaticWebAssets.Manifest.cache
+A:\munka\AD test\AD test\obj\Debug\net5.0\staticwebassets\AD test.StaticWebAssets.xml
+A:\munka\AD test\AD test\obj\Debug\net5.0\scopedcss\bundle\AD test.styles.css
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.RazorTargetAssemblyInfo.cache
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.dll
+A:\munka\AD test\AD test\obj\Debug\net5.0\ref\AD test.dll
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.pdb
+A:\munka\AD test\AD test\obj\Debug\net5.0\AD test.genruntimeconfig.cache
+A:\munka\AD test\AD test\bin\Debug\net5.0\web.config

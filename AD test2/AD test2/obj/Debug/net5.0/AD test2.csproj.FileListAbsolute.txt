@@ -1,0 +1,41 @@
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\appsettings.Development.json
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\appsettings.json
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.exe
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.deps.json
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.runtimeconfig.json
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.runtimeconfig.dev.json
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.dll
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\ref\AD test2.dll
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.pdb
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.Views.dll
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\AD test2.Views.pdb
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.csproj.AssemblyReference.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.GeneratedMSBuildEditorConfig.editorconfig
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.AssemblyInfoInputs.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.AssemblyInfo.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.csproj.CoreCompileInputs.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.MvcApplicationPartsAssemblyInfo.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.RazorAssemblyInfo.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.RazorAssemblyInfo.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\staticwebassets\AD test2.StaticWebAssets.Manifest.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\staticwebassets\AD test2.StaticWebAssets.xml
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\scopedcss\bundle\AD test2.styles.css
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.TagHelpers.input.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.TagHelpers.output.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.RazorCoreGenerate.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.RazorTargetAssemblyInfo.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.RazorTargetAssemblyInfo.cs
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.Views.pdb
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.dll
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\ref\AD test2.dll
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.pdb
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.genruntimeconfig.cache
+A:\munka\AD test2\AD test2\obj\Debug\net5.0\AD test2.csproj.CopyComplete
+A:\munka\AD test2\AD test2\bin\Debug\net5.0\web.config
